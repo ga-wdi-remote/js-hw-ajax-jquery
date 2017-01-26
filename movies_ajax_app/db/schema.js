@@ -8,7 +8,6 @@ var MovieSchema = new Schema({
   image: String,
   year: String,
   description: String,
-  rating: Number,
   created_at: Date,
   updated_at: Date
 });
